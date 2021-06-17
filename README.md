@@ -1,5 +1,5 @@
 # Relógio
- Esse projeto foi desenvolvido para aprimorar minhas habilidades em front-end, principalmente na parte de JavaScript onde estou praticando mais nos ultimos dias.
+ Esse projeto foi desenvolvido para aprimorar minhas habilidades em front-end, principalmente na parte de JavaScript onde estou praticando mais nos ultimos dias. O relógio se adapta ao mobile.
 
 <h4 align="center"> 
 🚀 Finalizado
